@@ -31,9 +31,8 @@ Deliverables & Files
 ​📈 Power BI Dashboard: customer_behavior_dashboard.pbix
 ​Interactive report providing executive insights into sales trends, customer reviews, shipping methods, and category performance.
 
-<img width="905" height="482" alt="customer dashboard" src="https://github.com/user-attachments/assets/103a20e7-e4d0-410f-bc17-869518ef20b2" />
-
-
-
 ​📄 Executive Presentation: Customer-shopping-behavior-analysis.pdf
 ​Downloadable presentation deck summarizing core analytical findings and business recommendations.
+
+<img width="905" height="482" alt="customer dashboard" src="https://github.com/user-attachments/assets/835cadba-9d6b-45d2-8156-fdf6c1dda393" />
+
