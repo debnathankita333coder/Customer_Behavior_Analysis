@@ -34,5 +34,5 @@ Deliverables & Files
 ​📄 Executive Presentation: Customer-shopping-behavior-analysis.pdf
 ​Downloadable presentation deck summarizing core analytical findings and business recommendations.
 
-![Customer Dashboard](customer dashboard.png)
+
 
